@@ -1,1 +1,2 @@
-# Beetroot Academy: Lesson 01 - Media profile
+# Media-Profile
+Beetroot Academy - Lesson 01 
